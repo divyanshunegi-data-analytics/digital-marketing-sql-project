@@ -36,3 +36,4 @@ The dataset includes:
 ## 🚀 Conclusion
 
 This project demonstrates SQL skills and real-world marketing data analysis.
+and real-world marketing data analysis.
